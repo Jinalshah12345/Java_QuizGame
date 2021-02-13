@@ -15,3 +15,6 @@ This is an interactive game which is implemented using Java Swing.
 - [x] When you end the quiz, your score distribution will be shown.
 
 # Screenshots
+
+![](Screenshots/SS1.png)
+
