@@ -4,14 +4,12 @@ This is an interactive game which is implemented using Java Swing.
 
 # Description
 
-- [x] Select any one of the given topic and start the quiz.
+- [x] User can select one of the answer from multiple choice questions.
  
-- [x] There are different multiple choices questions.
+- [x] Application has different multiple choices questions.
 
-- [x] Answer questions in a limited time, and the score and assessment are shown according to your answers.
+- [x] User have to answer questions in a limited time, and the score and assessment are shown according to your answers.
 
-- [x] There will be a reminder if all the questions in one topic have been answered.
- 
 - [x] When you end the quiz, your score distribution will be shown.
 
 # Screenshots
@@ -23,4 +21,15 @@ This is an interactive game which is implemented using Java Swing.
 ![](Screenshots/SS3.png)
 
 ![](Screenshots/SS4.png)
+
+# AUTHOR
+Jinal Kalpesh Shah
+
+
+# DEMO
+Download the QuizGame.jar Jar file and double click to run
+
+Or run java -jar QuizGame.jar from the command line
+
+
 
