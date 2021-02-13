@@ -10,7 +10,7 @@ This is an interactive game which is implemented using Java Swing.
 
 - [x] User have to answer questions in a limited time, and the score and assessment are shown according to your answers.
 
-- [x] When you end the quiz, your score distribution will be shown.
+- [x] When user end the quiz, their score distribution will be shown.
 
 # Screenshots
 
