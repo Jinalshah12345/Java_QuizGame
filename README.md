@@ -2,7 +2,7 @@
 
 This is an interactive game which is implemented using Java Swing.
 
-# Description
+# Functionality
 
 - [x] User can select one of the answer from multiple choice questions.
  
